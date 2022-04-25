@@ -1,3 +1,6 @@
+
+![galogo](https://user-images.githubusercontent.com/9198401/165161907-6011f9b8-9f7c-4cbe-bc65-f67bb70a852d.png)
+
 # Portfolio Guide
 
 Your portfolio is an opportunity to show potential employers who you are and what you can do - a chance for you to articulate your personal brand.  It is an evolving project that will grow with you over time.  Put in the effort to ensure you create something that is an accurate reflection of your professional and creative accomplishments.
