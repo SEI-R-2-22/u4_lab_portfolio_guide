@@ -3,13 +3,7 @@
 
 # Portfolio Guide
 
-Your portfolio is an opportunity to show potential employers who you are and what you can do - a chance for you to articulate your personal brand.  It is an evolving project that will grow with you over time.  Put in the effort to ensure you create something that is an accurate reflection of your professional and creative accomplishments.
-
-## Design considerations
-
-- This is not a full stack application - you only need to create a frontend.
-- Keep your portfolio simple and welcoming
-
+Your portfolio is an opportunity to show potential employers who you are and what you can do - a chance for you to articulate your personal brand.  It is an evolving project that will grow with you over time.  Put in the effort to ensure you create something that is an accurate reflection of your professional and creative accomplishments. Keep your portfolio simple and welcoming.
 
 ## Required Sections
 
@@ -32,6 +26,7 @@ __Include:__
 - Remember that we've made some pretty impressive apps that weren't necessarily "projects" - consider putting some TLC into homework or labs like tic-tac-toe or RAWG Router to make them worthy of display in your portfolio
 
 ## GA Alumni Examples
+- https://www.johnandrewjacobs.com/
 - http://stephenburnett-portfolio.surge.sh/
 - https://allisonquiroz.com/
 - http://eloiseressbarrow.com/
