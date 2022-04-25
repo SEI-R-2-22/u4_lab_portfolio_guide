@@ -7,7 +7,7 @@ Your portfolio is an opportunity to show potential employers who you are and wha
 
 ## Design considerations
 
-- This is not the time for heavy-hitting frameworks like React or Vue.  It is recommended that you stick with basic html & css.
+- This is not a full stack application - you only need to create a frontend.
 - Keep your portfolio simple and welcoming
 
 
@@ -24,7 +24,7 @@ Your portfolio is an opportunity to show potential employers who you are and wha
 __Include:__
 
 - App/project name
-- A short description along with the tech stack used to create it
+- A short description
 - A link to the deployed project
 - A link to the github repo
 - A screenshot of the landing page
@@ -38,6 +38,8 @@ __Include:__
 
 
 ## Further Considerations
+
+Have I conveyed my skills (by including information like tech stack, time it took to create each project, etc.)?
 
 Do each of my github repos include professional readmes?
 
