@@ -8,7 +8,7 @@ Your portfolio is an opportunity to show potential employers who you are and wha
 - Keep your portfolio simple and welcoming
 
 
-## Required Sectionsa
+## Required Sections
 
 - __Headline/introduction:__ Include name, professional title, and what you do.
 - __About Me:__ Share your professional story in a way that shows your personality and helps potential employers connect with you.  Be sure to share what you do, why you do it, and how you do it.  Keep it brief.
